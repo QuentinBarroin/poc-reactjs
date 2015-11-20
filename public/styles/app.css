@@ -1,0 +1,16 @@
+.CommentBox{
+	margin: 0 auto;
+	padding: 10px;
+	width: 80%;
+}
+.commentList{
+	border: 1px solid #ccc;
+	padding: 10px;
+}
+.comment{
+	padding: 10px;
+	margin: 0 0 10px;
+}
+.comment:odd{
+	background: #f3f3f3;
+}
